@@ -1,0 +1,24 @@
+h1{
+	margin-bottom:15px;
+	text-align:center; 
+}
+div{
+	border: 3px solid black;
+	height:100px;
+	margin-bottom:15px;
+}
+p{
+	width: 75px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 15px;
+}
+#p1{
+	background-color: #DEB887;
+	height: 25px;
+	position:relative;
+	left:95%;
+	bottom:15%;
+	border-style:none none solid solid;
+	text-align:center;  
+}
